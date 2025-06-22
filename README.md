@@ -7,7 +7,7 @@ Shopify Sales Analytics Dashboard
 An interactive Power BI Dashboard built to analyze Shopify sales data to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value.
 This dashboard helps to visualize patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
 
-### KPIs Requirement :scroll:
+### KPIs :scroll:
 1. Transactions Performance - This section focuses on evaluating the overall health and effectiveness of sales operations by tracking:<br>
 > Net Sales: Total revenue generated before tax.<br>
 > Total Quantity: The cumulative number of products sold.<br>
@@ -23,7 +23,7 @@ This dashboard helps to visualize patterns in revenue generation, customer reten
 > Repeat Rate: The percentage of customers who return to make another purchase.<br>
 > Purchase Frequency: How often customers place orders, on average.<br>
 
-### Chart's Requirement :bar_chart:
+### Charts :bar_chart:
 1. Regional Overview - Province and Cities
 2. Sales Trend Over Time
 3. Gateway Payment Method
